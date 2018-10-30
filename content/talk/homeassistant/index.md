@@ -16,10 +16,10 @@ abstract = "Introduction to HomeAssistant, an open-source home automation platfo
 
 # Name of event and optional event URL.
 event = "Home Automation Leuven Meetup"
-event_url = "https://example.org"
+event_url = "https://www.meetup.com/Home-Automation-around-Leuven/events/254489308/"
 
 # Location of event.
-location = "Leuvem, Belgium"
+location = "Leuven, Belgium"
 
 # Is this a selected talk? (true/false)
 selected = false
