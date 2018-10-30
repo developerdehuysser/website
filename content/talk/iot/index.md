@@ -1,5 +1,5 @@
 +++
-title = "Home Automation Meetup"
+title = "Practical IoT using MicroPython and ESP32"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -12,7 +12,7 @@ time_end = 2018-11-05T17:00:00
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Practical IoT using MicroPython and ESP32"
+abstract = "Measure air quality using MicroPython and ESP32, send it to an MQTT broker and visualize it in Kibana"
 
 # Name of event and optional event URL.
 event = "Cegeka workshop"
