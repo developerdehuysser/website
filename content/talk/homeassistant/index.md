@@ -38,7 +38,7 @@ tags = ["IoT", "HomeAssistant"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "slides/example-slides"
+url_slides = ""
 url_video = ""
 url_code = ""
 
