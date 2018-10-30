@@ -35,8 +35,8 @@ date_format = "January 2006"
   company_url = ""
   location = "Leuven, Belgium"
   date_start = "2018-11-05"
-  date_end = "2019-01-31"
-  description = """Taught distributed applications in Java"""
+  date_end = ""
+  description = """Teaching distributed applications in Java to final year students"""
 
 [[experience]]
   title = "Coach/Architect"
