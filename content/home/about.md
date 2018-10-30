@@ -25,4 +25,4 @@ weight = 5
 
 # Biography
 
-I'm a freelance developer, coach, architect and facilitator working at Cegeka. My interests include IoT, mobile computing and programmable matter. I lead and coach a small but very competent team that develops patient support platforms for UCB.
+I'm a freelance developer, coach, architect and facilitator working for various clients, including Cegeka, Proximus and the UCLL. My interests include IoT, mobile computing, programmable matter and coffee. For the moment, I lead and coach a small but very competent team that develops patient support platforms for UCB.
