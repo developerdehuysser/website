@@ -284,14 +284,14 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Talks"
+  url = "#talks"
   weight = 3
 
 [[menu.main]]
